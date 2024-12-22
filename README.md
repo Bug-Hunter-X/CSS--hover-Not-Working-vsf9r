@@ -1,0 +1,1 @@
+This repository contains a CSS bug and its solution. The bug involves the `:hover` pseudo-class not functioning as expected.  The solution demonstrates how to fix this issue, ensuring proper event triggering and visual feedback on hover. The bug and solution are presented in separate CSS files for clarity.
