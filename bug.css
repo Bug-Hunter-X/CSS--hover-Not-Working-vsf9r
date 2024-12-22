@@ -1,0 +1,1 @@
+The CSS rule `:hover` does not work on the element. The hover effect is not triggered when the mouse cursor is over the element. This can occur for different reasons, including issues with CSS specificity, incorrect selector usage, or parent elements interfering with the event propagation.
